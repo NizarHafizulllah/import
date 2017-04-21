@@ -1,0 +1,2 @@
+Deny from all
+php_value max_input_vars 20000
